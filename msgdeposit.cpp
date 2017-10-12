@@ -22,7 +22,7 @@
 //------- MAIN PROGRAM -------//
 int
 main(void)
-{   std::cout << "Auto-generator\n" << "Copyright (C) 2017 \"NNmJYwg\"\n\n"
+{   std::cout << "Auto-generator\n" << "Copyright (C) 2017 \"NNmJYwg\"\n\n";
     std::fstream f;
     f.open(FILENAME, std::ios::out | std::ios::app);
     f << "//------- AUTO-GENERATED OUTPUT -------//\n";
