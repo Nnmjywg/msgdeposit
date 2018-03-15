@@ -1,5 +1,5 @@
 //------ This application will print a desired message a specific number of times. ------//
-//------ Copyright (C) 2017 "NNmJYwg" -------//
+//------ Copyright (C) 2017-2018 "NNmJYwg" -------//
 //------ GPL V3 -------//
 
 //------- DEFINES -------//
